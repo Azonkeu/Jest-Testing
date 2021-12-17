@@ -1,0 +1,25 @@
+{
+  "name": "jest-testing",
+  "version": "1.0.0",
+  "description": "Testing using Jest.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Azonkeu/Jest-Testing.git"
+  },
+  "keywords": [
+    "jest"
+  ],
+  "author": "Azonkeu Ornela",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Azonkeu/Jest-Testing/issues"
+  },
+  "homepage": "https://github.com/Azonkeu/Jest-Testing#readme",
+  "devDependencies": {
+    "jest": "^27.4.5"
+  }
+}
